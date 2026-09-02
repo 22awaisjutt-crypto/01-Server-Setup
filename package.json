@@ -1,0 +1,24 @@
+{
+  "name": "01-server-setup",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/22awaisjutt-crypto/01-Server-Setup#readme",
+  "bugs": {
+    "url": "https://github.com/22awaisjutt-crypto/01-Server-Setup/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/22awaisjutt-crypto/01-Server-Setup.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "node": "^26.8.1"
+  }
+}
